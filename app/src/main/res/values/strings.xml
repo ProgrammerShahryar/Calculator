@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="Calculate" />
+    <string name="numTxt3" />
+    <string name="numTxt2" />
+    <string name="numTxt1" />
+    <string name="Number">Number</string>
+    <string name="hello">Number</string>
+    <string name="yo">Number</string>
+    <string name="d">+</string>
+    <string name="ff">=</string>
+    <string name="dads">Calculate</string>
+</resources>
